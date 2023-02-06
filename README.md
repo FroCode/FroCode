@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Freelancer**
 
-- 🌱 I’m currently learning **Node Js (:**
-
 - 👯 I’m student on **Bialystok University of Technology**
 
 - 🤝 Mechatronic's **Programm**
