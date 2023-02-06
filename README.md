@@ -13,7 +13,7 @@
 
 - 🤝 Mechatronic's **Programm**
 
-- 👨‍💻 All of my projects are available at www.frocode.me(frocode.me)
+- 👨‍💻 All of my projects are available at www.frocode.me
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/frocode/](https://www.linkedin.com/in/frocode/)
 
