@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **react, vue, ts**
 
-- 📫 How to reach me **frocodeofcontactme@gmail.com / maamarhaddouche0@gmail.com**
+- 📫 How to reach me **frocodeof@gmail.com / maamarhaddouche0@gmail.com**
 
 - 📄 Design Portfolio [https://www.behance.net/frocode](https://www.behance.net/frocode)
 
