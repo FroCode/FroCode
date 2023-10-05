@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **Freelancer**
 
-- 👯 I’m student on **Bialystok University of Technology**
+- 👯 I’m student on **WSB Univeristy **
 
-- 🤝 Mechatronic's **Programm**
+- 🤝 Computer Science **Programm**
 
 - 👨‍💻 All of my projects are available at www.frocode.me
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/frocode/](https://www.linkedin.com/in/frocode/)
 
-- 💬 Ask me about **react, vue, ts**
+- 💬 Ask me about **React, Vue, Ts, Cloud , AWS**
 
 - 📫 How to reach me **frocodeof@gmail.com / maamarhaddouche0@gmail.com**
 
