@@ -11,7 +11,7 @@
 
 - 🤝 Computer Science **Programm**
 
-- 👨‍💻 All of my projects are available at www.frocode.me
+- 👨‍💻 All of my projects are available at [www.frocode.me](https://frocode.github.io/Portfolio2/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/frocode/](https://www.linkedin.com/in/frocode/)
 
