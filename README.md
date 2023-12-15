@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FroCode</h1>
-<h3 align="center">A passionate Web Developer / Designer </h3>
+<h3 align="center">A passionate Web / Data / Cloud </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frocode" alt="frocode" /></a> </p>
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/frocode/](https://www.linkedin.com/in/frocode/)
 
-- 💬 Ask me about **React, Vue, Ts, Cloud , AWS**
+- 💬 Ask me about **React, Vue, Ts, Cloud , AWS , Data **
 
 - 📫 How to reach me **frocodeof@gmail.com / maamarhaddouche0@gmail.com**
 
