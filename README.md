@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/fro_code" target="blank"><img src="https://img.shields.io/twitter/follow/fro_code?logo=twitter&style=for-the-badge" alt="fro_code" /></a> </p>
 
-- 🔭 I’m currently working on **Freelancer**
+- 🔭 I’m currently working a **Freelancer**
 
 - 👯 I’m student on **WSB Univeristy **
 
