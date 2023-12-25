@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/frocode/](https://www.linkedin.com/in/frocode/)
 
-- 💬 Ask me about **React, Vue, Ts, Cloud , AWS , Data **
+- 💬 Ask me about **DATA , CLOUD , WEB **
 
 - 📫 How to reach me **frocodeof@gmail.com / maamarhaddouche0@gmail.com**
 
