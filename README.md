@@ -55,5 +55,35 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspi" alt="Raspi" width="40" height="40"/>&nbsp;</p>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+## Web Development Skills
+
+- <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+- <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
+- <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+- <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+- <img src="https://img.icons8.com/color/48/000000/jquery.png"/> 
+- <img src="https://img.icons8.com/color/48/000000/firebase.png"/> 
+- <img src="https://img.icons8.com/color/48/000000/api.png"/> 
+
+## Programming Languages
+
+- <img src="https://img.icons8.com/color/48/000000/python.png"/> 
+- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
+- <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+
+## Data Analysis Skills
+
+- <img src="https://img.icons8.com/ios/50/000000/bar-chart.png"/> 
+- <img src="https://img.icons8.com/ios/50/000000/graph.png"/> 
+- <img src="https://img.icons8.com/ios/50/000000/filing-cabinet.png"/> 
+- <img src="https://img.icons8.com/ios/50/000000/settings.png"/> 
+- <img src="https://img.icons8.com/ios/50/000000/database.png"/> 
+
+## React.js Skills
+
+- <img src="https://img.icons8.com/ios/50/000000/react-native.png"/> 
+- <img src="https://img.icons8.com/ios/50/000000/redux.png"/> 
+- <img src="https://img.icons8.com/ios/50/000000/styled-components.png"/> 
+- <img src="https://img.icons8.com/ios/50/000000/bar-chart.png"/> 
 
 
