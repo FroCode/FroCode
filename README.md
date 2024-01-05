@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/fro_code" target="blank"><img src="https://img.shields.io/twitter/follow/fro_code?logo=twitter&style=for-the-badge" alt="fro_code" /></a> </p>
 
-- 🔭 I’m currently working a **Freelancer**
+
 
 - 👯 I’m student on **WSB Univeristy **
 
-- 🤝 Computer Science **Programm**
+- 🤝 Computer Science 
 
 - 👨‍💻 All of my projects are available at [www.frocode.me](https://frocode.github.io/Portfolio2/)
 
@@ -18,8 +18,6 @@
 - 💬 Ask me about **DATA , CLOUD , WEB **
 
 - 📫 How to reach me **frocodeof@gmail.com / maamarhaddouche0@gmail.com**
-
-- 📄 Free time Skills : <3 Design Portfolio [https://www.behance.net/frocode](https://www.behance.net/frocode)
 
 - ⚡ Fun fact **I am funny </>**
 
