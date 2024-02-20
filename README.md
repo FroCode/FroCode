@@ -6,18 +6,15 @@
 <p align="left"> <a href="https://twitter.com/fro_code" target="blank"><img src="https://img.shields.io/twitter/follow/fro_code?logo=twitter&style=for-the-badge" alt="fro_code" /></a> </p>
 
 
-
-- 👯 I’m student on **WSB Univeristy **
-
 - 🤝 Computer Science 
 
 - 👨‍💻 All of my projects are available at [www.frocode.me](https://frocode.github.io/Portfolio2/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/frocode/](https://www.linkedin.com/in/frocode/)
+- 📝 I regularly share articles on [https://www.linkedin.com/in/frocode/](https://www.linkedin.com/in/frocode/)
 
-- 💬 Ask me about **DATA , CLOUD , WEB **
+- 💬 **DATA , CLOUD , WEB **
 
-- 📫 How to reach me **frocodeof@gmail.com / maamarhaddouche0@gmail.com**
+- 📫 reach me **frocodeof@gmail.com / maamarhaddouche0@gmail.com**
 
 - ⚡ Fun fact **I am funny </>**
 
