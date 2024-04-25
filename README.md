@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FroCode</h1>
-<h3 align="center">A passionate Web / Data / Cloud </h3>
+<h3 align="center"> Web | Data | Cloud </h3>
 
 
 - 🤝 Computer Science 
