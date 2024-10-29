@@ -4,7 +4,7 @@
 
 - 🤝 Computer Science 
 
-- 👨‍💻 All of my projects are available at [www.frocode.me](https://frocode.github.io/Portfolio2/)
+- 👨‍💻 All of my projects are available at [www.frocode.me](https://frocode.netlify.app/)
 
 - 📝 I regularly share articles on [https://www.linkedin.com/in/frocode/](https://www.linkedin.com/in/frocode/)
 
