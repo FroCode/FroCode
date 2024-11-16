@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm FroCode</h1>
 <h3 align="center"> DevOps | Data | Cloud </h3>
-A Data Engineer with experience in building scalable data pipelines and working with cloud services. I specialize in optimizing data workflows to generate business insights and drive informed decisions. Passionate about data, I continuously learn new technologies to enhance efficiency and performance.
-
-
+A highly skilled Data Engineer with a proven track record in designing and building scalable data pipelines, utilizing cloud services to drive business outcomes. I specialize in optimizing data workflows to generate actionable insights and empower data-driven decision-making. With a deep passion for data, I am dedicated to staying at the forefront of emerging technologies to continually enhance system efficiency, performance, and overall impact.
 
 - 🤝 Computer Science 
 
