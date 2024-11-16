@@ -4,15 +4,11 @@ A highly skilled Data Engineer with a proven track record in designing and build
 
 - 🤝 Computer Science 
 
-- 👨‍💻 All of my projects are available at [www.frocode.me](https://frocode.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://frocode.netlify.app/](https://frocode.netlify.app/)
 
 - 📝 I regularly share articles on [https://www.linkedin.com/in/frocode/](https://www.linkedin.com/in/frocode/)
 
-- 💬 **DATA , CLOUD , WEB **
-
 - 📫 reach me **frocodeof@gmail.com / maamarhaddouche0@gmail.com**
-
-- ⚡ Fun fact **I am funny </>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
