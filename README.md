@@ -40,13 +40,7 @@
 I design and ship **production-style data platforms** — both **batch** and **streaming** — on **AWS**, with **Python**, **SQL**, **Airflow**, **Kafka**, and **Spark**. From raw ingestion to curated marts, I care deeply about **modular ETL**, **orchestration**, **data quality**, and **ops-ready** deployments (Docker, CI/CD, observability).
 
 ```yaml
-name:        FroCode
-role:        Data Engineer
-focus:       [ELT, Streaming, Cloud Data Platforms]
-stack:       [Python, SQL, AWS, Airflow, Kafka, Spark, dbt, Docker]
-currently:   Building end-to-end lakehouse with Bronze → Silver → Gold layers
-learning:    Iceberg · Flink · Data Contracts · Platform Engineering
-open_to:     Data Engineering · Streaming · Cloud Pipeline roles
+experiance: +7 years       
 ```
 
 <table>
