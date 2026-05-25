@@ -33,14 +33,16 @@
 
 ---
 
-## About Me
+## +7 years of experiance
 
 > *Data Engineer focused on **scalable pipelines**, **cloud infrastructure**, and **reliable analytics delivery**.*
 
 I design and ship **production-style data platforms** — both **batch** and **streaming** — on **AWS**, with **Python**, **SQL**, **Airflow**, **Kafka**, and **Spark**. From raw ingestion to curated marts, I care deeply about **modular ETL**, **orchestration**, **data quality**, and **ops-ready** deployments (Docker, CI/CD, observability).
 
 ```yaml
-experiance: +7 years       
+
+focus:       [ELT, Streaming, Cloud Data Platforms]
+stack:       [Python, SQL, AWS, Airflow, Kafka, Spark, dbt, Docker]
 ```
 
 <table>
@@ -215,13 +217,33 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FroCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FroCode&theme=tokyonight&hide_border=true" height="165" alt="Contribution streak"/>
+<!-- Profile summary + Stats (reliable endpoints) -->
+<a href="https://github.com/FroCode">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FroCode&theme=tokyonight" height="165" alt="Profile details"/>
+</a>
+<a href="https://github.com/FroCode">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FroCode&theme=tokyonight" height="165" alt="GitHub stats"/>
+</a>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FroCode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FroCode&theme=tokyonight" height="165" alt="Profile summary"/>
+<!-- Top languages (reliable endpoints) -->
+<a href="https://github.com/FroCode">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FroCode&theme=tokyonight" height="165" alt="Top languages by repos"/>
+</a>
+<a href="https://github.com/FroCode">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FroCode&theme=tokyonight" height="165" alt="Top languages by commits"/>
+</a>
+
+<br/>
+
+<!-- Streak + Productive time -->
+<a href="https://github.com/FroCode">
+  <img src="https://streak-stats.demolab.com?user=FroCode&theme=tokyonight&hide_border=true" height="165" alt="Contribution streak"/>
+</a>
+<a href="https://github.com/FroCode">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FroCode&theme=tokyonight&utcOffset=2" height="165" alt="Productive time"/>
+</a>
 
 <br/><br/>
 
@@ -230,11 +252,6 @@ flowchart LR
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FroCode&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution graph"/>
-
-<br/>
-
-<!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/FroCode/FroCode/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
