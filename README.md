@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-frocodeof@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frocodeof@gmail)
+[![Email](https://img.shields.io/badge/Email-frocodeof@gmail.com-58A6FF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:frocodeof@gmail)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@frocode-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frocode/)
 [![GitHub](https://img.shields.io/badge/GitHub-@FroCode-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FroCode)
 
@@ -12,19 +12,19 @@
 
 ---
 
-## About Me ?
+## About ?
 
 ```text
-Cloud-native data engineer building scalable pipelines, event platforms, and analytics delivery.
+Cloud-native data engineering leader building resilient analytics and streaming platforms.
 ```
 
-I design and deliver production-ready systems that move data from raw ingestion to trusted insight. My focus is on AWS-led architectures, resilient ETL, Kafka streaming, and operational automation.
+I design and deliver production-ready systems that move raw data through ingestion, transformation, and analytics-ready delivery. My work blends AWS-native architecture, Kafka streaming, automated ETL, and strong operational observability.
 
-### Core strength areas
-- ?? Reliable data pipelines: clean ingestion, staging, orchestration, and downstream delivery
-- ?? Cloud-native platforms: AWS services, managed analytics, and infrastructure-as-code
-- ? Real-time systems: Kafka event processing, streaming delivery, and low-latency data flows
-- ?? Operability: CI/CD, monitoring, logging, and incident-ready deployments
+### Core strengths
+- ?? Reliable pipelines: clean ingestion, staging, orchestration, and downstream delivery
+- ?? Cloud-native design: AWS managed services, IaC, and scalable analytics platforms
+- ? Streaming systems: Kafka event processing, real-time delivery, and low-latency insights
+- ?? Operational excellence: CI/CD, monitoring, logging, and incident-ready deployments
 
 ---
 
@@ -32,12 +32,12 @@ I design and deliver production-ready systems that move data from raw ingestion 
 
 <div align="center">
 
-| Project | Description |
+| Project | What I built |
 |:---|:---|
 | ?? [**AWS-ETL**](https://github.com/FroCode/AWS-ETL) | Cloud-native batch ETL and analytics pipelines on AWS |
-| ?? [**news-Data-Pipeline_Airflow_AWS**](https://github.com/FroCode/news-Data-Pipeline_Airflow_AWS) | End-to-end newsroom ingestion and orchestration |
-| ? [**Real_Streaming_Kafka**](https://github.com/FroCode/Real_Streaming_Kafka) | High-throughput Kafka streaming and event processing |
-| ??? [**City_End_to_End_RealTime**](https://github.com/FroCode/City_End_to_End_RealTime) | Real-time urban analytics and city telemetry workflows |
+| ?? [**news-Data-Pipeline_Airflow_AWS**](https://github.com/FroCode/news-Data-Pipeline_Airflow_AWS) | End-to-end newsroom ingestion and Airflow orchestration |
+| ? [**Real_Streaming_Kafka**](https://github.com/FroCode/Real_Streaming_Kafka) | High-throughput Kafka streaming implementation |
+| ??? [**City_End_to_End_RealTime**](https://github.com/FroCode/City_End_to_End_RealTime) | Real-time urban analytics and event delivery |
 | ?? [**Reddit_ETL**](https://github.com/FroCode/Reddit_ETL) | API ingestion pipeline feeding analytics warehouse |
 | ?? [**TECHNICAL-TASK-YASA-1-LLC**](https://github.com/FroCode/TECHNICAL-TASK-YASA-1-LLC) | Rapid data prototyping and exploratory analysis |
 
@@ -47,35 +47,31 @@ I design and deliver production-ready systems that move data from raw ingestion 
 
 ## Tech Stack ??
 
-### Languages
-- ?? Python
-- ?? SQL
-- ?? JavaScript
-- ?? Bash
-- ?? C++
+<div align="center">
 
-### Data Engineering
-- ? Apache Spark
-- ?? Apache Airflow
-- ?? Kafka
-- ?? Snowflake
-- ?? Delta Lake
+| Languages | Data Engineering | Cloud & DevOps | Observability & ML |
+|:---|:---|:---|:---|
+| ?? Python | ? Apache Spark | ?? AWS | ?? Prometheus |
+| ?? SQL | ?? Apache Airflow | ?? Azure | ?? Grafana |
+| ?? JavaScript | ?? Kafka | ?? GCP | ?? MLflow |
+| ?? Bash | ?? Snowflake | ?? Docker | ?? TensorFlow |
+| ?? C++ | ?? Delta Lake | ?? Kubernetes | ?? PyTorch |
+|  |  | ?? Terraform |  |
+|  |  | ?? Jenkins |  |
 
-### Cloud & DevOps
-- ?? AWS
-- ?? Azure
-- ?? GCP
-- ?? Docker
-- ?? Kubernetes
-- ?? Terraform
-- ?? Jenkins
+</div>
 
-### Observability & ML
-- ?? Prometheus
-- ?? Grafana
-- ?? MLflow
-- ?? TensorFlow
-- ?? PyTorch
+---
+
+## Connect ??
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-frocodeof@gmail.com-58A6FF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:frocodeof@gmail)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frocode/)
+[![GitHub](https://img.shields.io/badge/GitHub-@FroCode-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FroCode)
+
+</div>
 
 ---
 
@@ -93,20 +89,5 @@ I design and deliver production-ready systems that move data from raw ingestion 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FroCode&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-### Let's connect ??
-
-**310+** contributions last year � actively shipping pipeline and platform implementations
-
-[![Email](https://img.shields.io/badge/Email-frocodeof@gmail.com-58A6FF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:frocodeof@gmail)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frocode/)
-
-*Open to Data Engineering, Streaming, and Cloud Pipeline opportunities.*
 
 </div>
