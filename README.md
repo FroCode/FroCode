@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-frocodeof@gmail.com-58A6FF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:frocodeof@gmail)
+[![Gmail](https://img.shields.io/badge/Gmail-frocodeof@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frocodeof@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@frocode-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frocode/)
 [![GitHub](https://img.shields.io/badge/GitHub-@FroCode-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FroCode)
 
@@ -12,70 +12,75 @@
 
 ---
 
-## About ?
+## About Me
 
 ```text
-Cloud-native data engineering leader building resilient analytics and streaming platforms.
+Data Engineer focused on scalable pipelines, cloud infrastructure, and reliable analytics delivery.
 ```
 
-I design and deliver production-ready systems that move raw data through ingestion, transformation, and analytics-ready delivery. My work blends AWS-native architecture, Kafka streaming, automated ETL, and strong operational observability.
+I build **production-style data platforms** — batch and streaming — on **AWS** with **Python**, **SQL**, **Airflow**, and **Kafka**. From raw ingestion to curated layers, I care about **modular ETL**, **orchestration**, and **ops-ready** deployments (Docker, CI/CD, observability).
 
-### Core strengths
-- ?? Reliable pipelines: clean ingestion, staging, orchestration, and downstream delivery
-- ?? Cloud-native design: AWS managed services, IaC, and scalable analytics platforms
-- ? Streaming systems: Kafka event processing, real-time delivery, and low-latency insights
-- ?? Operational excellence: CI/CD, monitoring, logging, and incident-ready deployments
-
----
-
-## Featured Projects ??
-
-<div align="center">
-
-| Project | What I built |
+| What I bring | |
 |:---|:---|
-| ?? [**AWS-ETL**](https://github.com/FroCode/AWS-ETL) | Cloud-native batch ETL and analytics pipelines on AWS |
-| ?? [**news-Data-Pipeline_Airflow_AWS**](https://github.com/FroCode/news-Data-Pipeline_Airflow_AWS) | End-to-end newsroom ingestion and Airflow orchestration |
-| ? [**Real_Streaming_Kafka**](https://github.com/FroCode/Real_Streaming_Kafka) | High-throughput Kafka streaming implementation |
-| ??? [**City_End_to_End_RealTime**](https://github.com/FroCode/City_End_to_End_RealTime) | Real-time urban analytics and event delivery |
-| ?? [**Reddit_ETL**](https://github.com/FroCode/Reddit_ETL) | API ingestion pipeline feeding analytics warehouse |
-| ?? [**TECHNICAL-TASK-YASA-1-LLC**](https://github.com/FroCode/TECHNICAL-TASK-YASA-1-LLC) | Rapid data prototyping and exploratory analysis |
-
-</div>
+| **ETL & orchestration** | Airflow DAGs, staged loads, idempotent pipelines |
+| **AWS data stack** | S3, Glue patterns, Lambda-style flows, cloud-native ETL |
+| **Real-time systems** | Kafka streaming, end-to-end city & event pipelines |
+| **Engineering discipline** | Docker · Terraform · CI/CD · Prometheus / Grafana |
 
 ---
 
-## Tech Stack ??
+## Featured Projects
 
 <div align="center">
 
-| Languages | Data Engineering | Cloud & DevOps | Observability & ML |
-|:---|:---|:---|:---|
-| ?? Python | ? Apache Spark | ?? AWS | ?? Prometheus |
-| ?? SQL | ?? Apache Airflow | ?? Azure | ?? Grafana |
-| ?? JavaScript | ?? Kafka | ?? GCP | ?? MLflow |
-| ?? Bash | ?? Snowflake | ?? Docker | ?? TensorFlow |
-| ?? C++ | ?? Delta Lake | ?? Kubernetes | ?? PyTorch |
-|  |  | ?? Terraform |  |
-|  |  | ?? Jenkins |  |
+| | Repository | Stack |
+|:---:|:---|:---|
+| 🔷 | [**AWS-ETL**](https://github.com/FroCode/AWS-ETL) | `Python` `AWS` |
+| 📰 | [**news-Data-Pipeline_Airflow_AWS**](https://github.com/FroCode/news-Data-Pipeline_Airflow_AWS) | `Python` `Airflow` `AWS` |
+| ⚡ | [**Real_Streaming_Kafka**](https://github.com/FroCode/Real_Streaming_Kafka) | `Python` `Kafka` |
+| 🏙️ | [**City_End_to_End_RealTime**](https://github.com/FroCode/City_End_to_End_RealTime) | `Python` Real-time E2E |
+| 🔴 | [**Reddit_ETL**](https://github.com/FroCode/Reddit_ETL) | `Python` API → warehouse |
+| 📓 | [**TECHNICAL-TASK-YASA-1-LLC**](https://github.com/FroCode/TECHNICAL-TASK-YASA-1-LLC) | `Jupyter` |
 
 </div>
 
 ---
 
-## Connect ??
+## Tech Stack
 
-<div align="center">
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-[![Email](https://img.shields.io/badge/Email-frocodeof@gmail.com-58A6FF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:frocodeof@gmail)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frocode/)
-[![GitHub](https://img.shields.io/badge/GitHub-@FroCode-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FroCode)
+### Data Engineering
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-0078D4?style=flat-square&logo=databricks&logoColor=white)
 
-</div>
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+### ML & Monitoring
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ---
 
-## GitHub Analytics ??
+## GitHub Analytics
 
 <div align="center">
 
@@ -89,5 +94,20 @@ I design and deliver production-ready systems that move raw data through ingesti
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FroCode&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's connect
+
+**310+** contributions last year · actively shipping pipeline & implementation work
+
+[![Email](https://img.shields.io/badge/Email-frocodeof@gmail.com-58A6FF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:frocodeof@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frocode/)
+
+*Open to **Data Engineering**, **Streaming**, and **Cloud Pipeline** opportunities.*
 
 </div>
