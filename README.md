@@ -15,17 +15,18 @@
 ## About Me
 
 ```text
-Data Engineer focused on scalable pipelines, cloud infrastructure, and reliable analytics delivery.
+Data engineering leader building cloud-native analytics and streaming platforms.
 ```
 
-I build **production-style data platforms** — batch and streaming — on **AWS** with **Python**, **SQL**, **Airflow**, and **Kafka**. From raw ingestion to curated layers, I care about **modular ETL**, **orchestration**, and **ops-ready** deployments (Docker, CI/CD, observability).
+I design and deliver production-ready data systems with a strong emphasis on reliability, scalability, and operational excellence.
+My experience spans batch and streaming pipelines on AWS using **Python**, **SQL**, **Airflow**, and **Kafka**, backed by infrastructure-as-code and observability practices.
 
-| What I bring | |
+| What I deliver | Why it matters |
 |:---|:---|
-| **ETL & orchestration** | Airflow DAGs, staged loads, idempotent pipelines |
-| **AWS data stack** | S3, Glue patterns, Lambda-style flows, cloud-native ETL |
-| **Real-time systems** | Kafka streaming, end-to-end city & event pipelines |
-| **Engineering discipline** | Docker · Terraform · CI/CD · Prometheus / Grafana |
+| **ETL & orchestration** | resilient DAGs, staged loads, and idempotent data flows |
+| **Cloud data architecture** | S3, Glue, Lambda-style ingestion, and managed analytics pipelines |
+| **Streaming platforms** | Kafka event delivery, real-time processing, and low-latency insights |
+| **Ops discipline** | Docker, Terraform, CI/CD, monitoring, and incident-ready delivery |
 
 ---
 
@@ -33,14 +34,14 @@ I build **production-style data platforms** — batch and streaming — on **AWS
 
 <div align="center">
 
-| | Repository | Stack |
+| | Repository | Focus |
 |:---:|:---|:---|
-| 🔷 | [**AWS-ETL**](https://github.com/FroCode/AWS-ETL) | `Python` `AWS` |
-| 📰 | [**news-Data-Pipeline_Airflow_AWS**](https://github.com/FroCode/news-Data-Pipeline_Airflow_AWS) | `Python` `Airflow` `AWS` |
-| ⚡ | [**Real_Streaming_Kafka**](https://github.com/FroCode/Real_Streaming_Kafka) | `Python` `Kafka` |
-| 🏙️ | [**City_End_to_End_RealTime**](https://github.com/FroCode/City_End_to_End_RealTime) | `Python` Real-time E2E |
-| 🔴 | [**Reddit_ETL**](https://github.com/FroCode/Reddit_ETL) | `Python` API → warehouse |
-| 📓 | [**TECHNICAL-TASK-YASA-1-LLC**](https://github.com/FroCode/TECHNICAL-TASK-YASA-1-LLC) | `Jupyter` |
+| 🔷 | [**AWS-ETL**](https://github.com/FroCode/AWS-ETL) | Cloud-native batch ETL on AWS |
+| 📰 | [**news-Data-Pipeline_Airflow_AWS**](https://github.com/FroCode/news-Data-Pipeline_Airflow_AWS) | End-to-end newsroom ingestion and orchestration |
+| ⚡ | [**Real_Streaming_Kafka**](https://github.com/FroCode/Real_Streaming_Kafka) | High-throughput Kafka streaming implementation |
+| 🏙️ | [**City_End_to_End_RealTime**](https://github.com/FroCode/City_End_to_End_RealTime) | Real-time city analytics pipeline |
+| 🔴 | [**Reddit_ETL**](https://github.com/FroCode/Reddit_ETL) | API ingestion to analytics warehouse |
+| 📓 | [**TECHNICAL-TASK-YASA-1-LLC**](https://github.com/FroCode/TECHNICAL-TASK-YASA-1-LLC) | Data prototyping and analysis in Jupyter |
 
 </div>
 
