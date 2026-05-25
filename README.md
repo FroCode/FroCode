@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-frocodeof@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frocodeof@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-frocodeof@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frocodeof@gmail)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@frocode-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frocode/)
 [![GitHub](https://img.shields.io/badge/GitHub-@FroCode-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FroCode)
 
@@ -12,76 +12,74 @@
 
 ---
 
-## About Me
+## About Me ?
 
 ```text
-Data engineering leader building cloud-native analytics and streaming platforms.
+Cloud-native data engineer building scalable pipelines, event platforms, and analytics delivery.
 ```
 
-I design and deliver production-ready data systems with a strong emphasis on reliability, scalability, and operational excellence.
-My experience spans batch and streaming pipelines on AWS using **Python**, **SQL**, **Airflow**, and **Kafka**, backed by infrastructure-as-code and observability practices.
+I design and deliver production-ready systems that move data from raw ingestion to trusted insight. My focus is on AWS-led architectures, resilient ETL, Kafka streaming, and operational automation.
 
-| What I deliver | Why it matters |
-|:---|:---|
-| **ETL & orchestration** | resilient DAGs, staged loads, and idempotent data flows |
-| **Cloud data architecture** | S3, Glue, Lambda-style ingestion, and managed analytics pipelines |
-| **Streaming platforms** | Kafka event delivery, real-time processing, and low-latency insights |
-| **Ops discipline** | Docker, Terraform, CI/CD, monitoring, and incident-ready delivery |
+### Core strength areas
+- ?? Reliable data pipelines: clean ingestion, staging, orchestration, and downstream delivery
+- ?? Cloud-native platforms: AWS services, managed analytics, and infrastructure-as-code
+- ? Real-time systems: Kafka event processing, streaming delivery, and low-latency data flows
+- ?? Operability: CI/CD, monitoring, logging, and incident-ready deployments
 
 ---
 
-## Featured Projects
+## Featured Projects ??
 
 <div align="center">
 
-| | Repository | Focus |
-|:---:|:---|:---|
-| 🔷 | [**AWS-ETL**](https://github.com/FroCode/AWS-ETL) | Cloud-native batch ETL on AWS |
-| 📰 | [**news-Data-Pipeline_Airflow_AWS**](https://github.com/FroCode/news-Data-Pipeline_Airflow_AWS) | End-to-end newsroom ingestion and orchestration |
-| ⚡ | [**Real_Streaming_Kafka**](https://github.com/FroCode/Real_Streaming_Kafka) | High-throughput Kafka streaming implementation |
-| 🏙️ | [**City_End_to_End_RealTime**](https://github.com/FroCode/City_End_to_End_RealTime) | Real-time city analytics pipeline |
-| 🔴 | [**Reddit_ETL**](https://github.com/FroCode/Reddit_ETL) | API ingestion to analytics warehouse |
-| 📓 | [**TECHNICAL-TASK-YASA-1-LLC**](https://github.com/FroCode/TECHNICAL-TASK-YASA-1-LLC) | Data prototyping and analysis in Jupyter |
+| Project | Description |
+|:---|:---|
+| ?? [**AWS-ETL**](https://github.com/FroCode/AWS-ETL) | Cloud-native batch ETL and analytics pipelines on AWS |
+| ?? [**news-Data-Pipeline_Airflow_AWS**](https://github.com/FroCode/news-Data-Pipeline_Airflow_AWS) | End-to-end newsroom ingestion and orchestration |
+| ? [**Real_Streaming_Kafka**](https://github.com/FroCode/Real_Streaming_Kafka) | High-throughput Kafka streaming and event processing |
+| ??? [**City_End_to_End_RealTime**](https://github.com/FroCode/City_End_to_End_RealTime) | Real-time urban analytics and city telemetry workflows |
+| ?? [**Reddit_ETL**](https://github.com/FroCode/Reddit_ETL) | API ingestion pipeline feeding analytics warehouse |
+| ?? [**TECHNICAL-TASK-YASA-1-LLC**](https://github.com/FroCode/TECHNICAL-TASK-YASA-1-LLC) | Rapid data prototyping and exploratory analysis |
 
 </div>
 
 ---
 
-## Tech Stack
+## Tech Stack ??
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+- ?? Python
+- ?? SQL
+- ?? JavaScript
+- ?? Bash
+- ?? C++
 
 ### Data Engineering
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-0078D4?style=flat-square&logo=databricks&logoColor=white)
+- ? Apache Spark
+- ?? Apache Airflow
+- ?? Kafka
+- ?? Snowflake
+- ?? Delta Lake
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+- ?? AWS
+- ?? Azure
+- ?? GCP
+- ?? Docker
+- ?? Kubernetes
+- ?? Terraform
+- ?? Jenkins
 
-### ML & Monitoring
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+### Observability & ML
+- ?? Prometheus
+- ?? Grafana
+- ?? MLflow
+- ?? TensorFlow
+- ?? PyTorch
 
 ---
 
-## GitHub Analytics
+## GitHub Analytics ??
 
 <div align="center">
 
@@ -102,13 +100,13 @@ My experience spans batch and streaming pipelines on AWS using **Python**, **SQL
 
 <div align="center">
 
-### Let's connect
+### Let's connect ??
 
-**310+** contributions last year · actively shipping pipeline & implementation work
+**310+** contributions last year � actively shipping pipeline and platform implementations
 
-[![Email](https://img.shields.io/badge/Email-frocodeof@gmail.com-58A6FF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:frocodeof@gmail.com)
+[![Email](https://img.shields.io/badge/Email-frocodeof@gmail.com-58A6FF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:frocodeof@gmail)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frocode/)
 
-*Open to **Data Engineering**, **Streaming**, and **Cloud Pipeline** opportunities.*
+*Open to Data Engineering, Streaming, and Cloud Pipeline opportunities.*
 
 </div>
